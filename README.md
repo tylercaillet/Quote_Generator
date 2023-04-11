@@ -3,6 +3,8 @@
 
 ### This is a project that generates random quotes using HTML, CSS, and JavaScript.
 
+### [GitHub](https://github.com/tylercaillet/Quote_Generator)
+
 ### **_Description_**
 
 ####  - The Random Quote Generator is a web application that displays a random quote every time the user clicks a button. The quotes are displayed in a visually appealing format that uses custom CSS styles.
